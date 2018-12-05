@@ -1,0 +1,6 @@
+framework module Pods_TaskContactRxSwiftUITests {
+  umbrella header "Pods-TaskContactRxSwiftUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
